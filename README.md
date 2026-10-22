@@ -1,7 +1,7 @@
 # Racesounds opname
 
 Webapp (PWA) om met je telefoon motorgeluiden van echte auto's op te nemen, per toerental, als
-bronmateriaal voor [Racesounds](../Racesounds). Werkt offline. Alles blijft op de telefoon
+bronmateriaal voor Racesounds (synthetische motorgeluiden). Werkt offline. Alles blijft op de telefoon
 (IndexedDB) tot je een motor exporteert als zip.
 
 - Motorlijst: naam, merk/model/bouwjaar, motorcode, cilinders, opbouw, inhoud, brandstof, turbo,
