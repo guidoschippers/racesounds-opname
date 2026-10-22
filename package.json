@@ -1,0 +1,12 @@
+{
+  "name": "racesounds-opname",
+  "version": "1.0.0",
+  "private": true,
+  "description": "PWA om motorgeluiden per toerental op te nemen als bronmateriaal voor Racesounds",
+  "type": "module",
+  "scripts": {
+    "test": "node --test",
+    "serve": "node tools/serve.mjs",
+    "icons": "node tools/make-icons.mjs"
+  }
+}
